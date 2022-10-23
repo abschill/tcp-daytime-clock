@@ -1,0 +1,1 @@
+cd client && cmake --build . && cd ../server && cmake --build . 

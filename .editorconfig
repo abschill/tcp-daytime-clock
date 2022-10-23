@@ -1,0 +1,5 @@
+root = true
+
+[*.cc,*.cpp,*.h,*.hpp,*.hh,*.c]
+tab_width = 2
+use_tabs = true
