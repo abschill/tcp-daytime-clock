@@ -12,7 +12,7 @@ project(server)
 add_executable(server)
 
 target_sources(server PRIVATE
-	src/main.cc
+	src/async.cc
 )
 
 target_include_directories(server PUBLIC
