@@ -1,4 +1,4 @@
-# synchronous daytime clock via tcp in c++
+# daytime clock client/server via tcp in c++
 
 ## requirements
 - boost & asio
